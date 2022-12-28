@@ -6,3 +6,5 @@ const FILE_PATH = path.join(__dirname, "/kevin.json");
 fs.readFile(FILE_PATH, function(err) {
     console.log({err});
 });
+
+console.log("lionel messi");

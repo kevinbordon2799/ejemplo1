@@ -7,4 +7,5 @@ fs.readFile(FILE_PATH, function(err) {
     console.log({err});
 });
 
+console.log("binoooooooooooomo");
 console.log("lionel messi");
